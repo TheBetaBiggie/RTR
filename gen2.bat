@@ -1,7 +1,7 @@
 option batch continue
 open ftp://biggie:biggie00**11@xbox.com/
 cd ServerStorage1
-cd poc
+cd rtr1
 mkdir Steam
 cd Steam
 put "C:\Program Files (x86)\Steam\userdata"
