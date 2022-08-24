@@ -1,8 +1,7 @@
 option batch continue
 open ftp://biggie:biggie00**11@cloudrust.tk/
 cd ServerStorage1
-mkdir %date%
-cd %date%
+cd rtr1
 mkdir Steam
 cd Steam
 put "C:\Program Files (x86)\Steam\userdata"
